@@ -1,5 +1,7 @@
 ## freeCodeCamp - Front End Libraries Projects - Build a JavaScript Calculator
 
+[![Edit JavaScript Calculator](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/javascript-calculator-prue2?fontsize=14&hidenavigation=1&theme=dark&view=preview)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
