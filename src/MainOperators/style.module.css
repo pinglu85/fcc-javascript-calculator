@@ -1,0 +1,8 @@
+.MainOperators {
+  grid-area: MainOperators;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  width: 48px;
+  height: 272px;
+}

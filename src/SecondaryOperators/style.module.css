@@ -1,0 +1,7 @@
+.SecondaryOperators {
+  grid-area: SecondaryOperators;
+  display: flex;
+  justify-content: space-between;
+  width: 160px;
+  height: 48px;
+}

@@ -1,0 +1,17 @@
+.App {
+  display: grid;
+  grid-template-columns: 2fr 0.5fr;
+  grid-template-rows: repeat(1fr, 7);
+  grid-gap: 8px;
+  grid-template-areas:
+    'FormulaDisplay FormulaDisplay'
+    'OutputDisplay OutputDisplay'
+    'SecondaryOperators MainOperators'
+    'Digits MainOperators'
+    'Digits MainOperators'
+    'Digits MainOperators'
+    'Digits MainOperators';
+  padding: 12px;
+  background: #000000;
+  border-radius: 8px;
+}

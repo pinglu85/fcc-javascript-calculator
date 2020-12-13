@@ -1,0 +1,20 @@
+.Display {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 216px;
+}
+
+.formulaDisplay {
+  grid-area: FormulaDisplay;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  min-height: 17px;
+  color: #7c7c7c;
+}
+
+.outputDisplay {
+  grid-area: OutputDisplay;
+  height: 48px;
+  color: #ffffff;
+}
